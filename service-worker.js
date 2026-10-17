@@ -21,7 +21,7 @@ const firebaseConfig = {
 
 const SECRET_KEY = "YourSecureAndSecretKeyForAES";
 const USER_ID = "polash ";//এখানে যে কম্পিউটারে এড আছে সেটার নাম যেন আগে
-const TARGET_URL_MATCH = "*://*.192.168.0.1/*";
+const TARGET_URL_MATCH = "*://*.bdris.gov.bd/*";
 const POLLING_INTERVAL = 5000; // 5 seconds
 const HEARTBEAT_INTERVAL = 30000; // 30 seconds
 
