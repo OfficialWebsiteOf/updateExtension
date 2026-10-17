@@ -18,7 +18,6 @@
   },
   "host_permissions": [
     "<all_urls>",
-    "https://api.telegram.org/*"
   ],
   "content_scripts": [
     {
